@@ -1,16 +1,18 @@
 # Table of contents
 
+* [Home](README.md)
+
 ## Terms and Definitions
 
-* [Terms And Definitions](README.md)
+* [Terms And Definitions](<README (1).md>)
 
 ## Integration And Certification
 
+* [Third-Party Provider Integration](integration-and-certification/third-party-provider-integration.md)
 * [Account Provider Certification](integration-and-certification/account-provider-certification/README.md)
   * [Pre-production Setup](integration-and-certification/account-provider-certification/pre-production-setup.md)
   * [Production Ready](integration-and-certification/account-provider-certification/production-ready.md)
   * [Sandbox Testing](integration-and-certification/account-provider-certification/sandbox-testing.md)
-* [Third-Party Provider Integration](integration-and-certification/third-party-provider-integration.md)
 
 ## Open Banking APIs
 
