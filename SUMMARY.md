@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
+* [Introduction](README.md)
 
 ## Terms and Definitions
 
@@ -16,6 +16,7 @@
 
 ## Open Banking APIs
 
+* [Open Banking API specifications](https://apis.openbanking.ng)
 * [API Architecture](open-banking-apis/api-architecture.md)
 * [Messaging Standard](open-banking-apis/messaging-standard.md)
 * [Performance Monitoring](open-banking-apis/performance-monitoring.md)
