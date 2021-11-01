@@ -1,34 +1,49 @@
 # Table of contents
 
-* [Open Banking Nigeria Standard](README.md)
-  * [Terms And Definitions](open-banking-nigeria-standard/terms-and-definitions.md)
-  * [Integration and Certification](open-banking-nigeria-standard/integration-and-certification/README.md)
-    * [Account Provider Certification](open-banking-nigeria-standard/integration-and-certification/account-provider-certification/README.md)
-      * [Pre-production Setup](open-banking-nigeria-standard/integration-and-certification/account-provider-certification/pre-production-setup.md)
-      * [Production Ready](open-banking-nigeria-standard/integration-and-certification/account-provider-certification/production-ready.md)
-      * [Sandbox Testing](open-banking-nigeria-standard/integration-and-certification/account-provider-certification/sandbox-testing.md)
-    * [Third-Party Provider Integration](open-banking-nigeria-standard/integration-and-certification/third-party-provider-integration.md)
-  * [Open Banking APIs (Developer Centre)](open-banking-nigeria-standard/open-banking-apis-developer-centre/README.md)
-    * [API Architecture](open-banking-nigeria-standard/open-banking-apis-developer-centre/api-architecture.md)
-    * [Messaging Standard](open-banking-nigeria-standard/open-banking-apis-developer-centre/messaging-standard.md)
-    * [Performance Monitoring](open-banking-nigeria-standard/open-banking-apis-developer-centre/performance-monitoring.md)
-    * [Hashmaps and Lookups](open-banking-nigeria-standard/open-banking-apis-developer-centre/hashmaps-and-lookups.md)
-  * [Open Banking Standard](open-banking-nigeria-standard/open-banking-standard.md)
-  * [References](open-banking-nigeria-standard/references.md)
-  * [Operational Guidelines](open-banking-nigeria-standard/operational-guidelines/README.md)
-    * [Service Management](open-banking-nigeria-standard/operational-guidelines/service-management.md)
-    * [Front-Office](open-banking-nigeria-standard/operational-guidelines/front-office.md)
-    * [Back-Office](open-banking-nigeria-standard/operational-guidelines/back-office.md)
-    * [Operations-Readiness Checklist](open-banking-nigeria-standard/operational-guidelines/operations-readiness-checklist.md)
-  * [Consumer Experience Guidelines](open-banking-nigeria-standard/consumer-experience-guidelines/README.md)
-    * [Authorization](open-banking-nigeria-standard/consumer-experience-guidelines/authorization.md)
-    * [Mobile App Interface Guidelines](open-banking-nigeria-standard/consumer-experience-guidelines/mobile-app-interface-guidelines.md)
-  * [Security Framework](open-banking-nigeria-standard/security-framework/README.md)
-    * [Securing Consumer Information](open-banking-nigeria-standard/security-framework/securing-consumer-information.md)
-    * [Data Management and Exchange](open-banking-nigeria-standard/security-framework/data-management-and-exchange.md)
-    * [Security-Readiness Checklist](open-banking-nigeria-standard/security-framework/security-readiness-checklist.md)
+## Terms and Definitions
 
-## something
+* [Terms And Definitions](README.md)
 
-* [Page 1](something/page-1.md)
-* [Page 1](something/page-1-1.md)
+## Integration And Certification
+
+* [Account Provider Certification](integration-and-certification/account-provider-certification/README.md)
+  * [Pre-production Setup](integration-and-certification/account-provider-certification/pre-production-setup.md)
+  * [Production Ready](integration-and-certification/account-provider-certification/production-ready.md)
+  * [Sandbox Testing](integration-and-certification/account-provider-certification/sandbox-testing.md)
+* [Third-Party Provider Integration](integration-and-certification/third-party-provider-integration.md)
+
+## Open Banking APIs
+
+* [API Architecture](open-banking-apis/api-architecture.md)
+* [Messaging Standard](open-banking-apis/messaging-standard.md)
+* [Performance Monitoring](open-banking-apis/performance-monitoring.md)
+* [Hashmaps and Lookups](open-banking-apis/hashmaps-and-lookups.md)
+
+## Open Banking Standard
+
+* [Standard](open-banking-standard/standard.md)
+
+## Operational Guideline
+
+* [Overview](operational-guideline/overview.md)
+* [Service Management](operational-guideline/service-management.md)
+* [Front-Office](operational-guideline/front-office.md)
+* [Back-Office](operational-guideline/back-office.md)
+* [Operations-Readiness Checklist](operational-guideline/operations-readiness-checklist.md)
+
+## Customer Experience
+
+* [Overview](customer-experience/overview.md)
+* [Authorization](customer-experience/authorization.md)
+* [Mobile App Interface Guidelines](customer-experience/mobile-app-interface-guidelines.md)
+
+## Security Framework
+
+* [Overview](security-framework/overview.md)
+* [Security-Readiness Checklist](security-framework/security-readiness-checklist.md)
+* [Data Management and Exchange](security-framework/data-management-and-exchange.md)
+* [Securing Consumer Information](security-framework/securing-consumer-information.md)
+
+## References
+
+* [References](references/references.md)
