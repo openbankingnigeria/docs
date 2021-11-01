@@ -14,13 +14,13 @@
   * [Production Ready](integration-and-certification/account-provider-certification/production-ready.md)
   * [Sandbox Testing](integration-and-certification/account-provider-certification/sandbox-testing.md)
 
-## Open Banking APIs
+## Developer Center
 
-* [Open Banking API specifications](https://apis.openbanking.ng)
-* [API Architecture](open-banking-apis/api-architecture.md)
-* [Messaging Standard](open-banking-apis/messaging-standard.md)
-* [Performance Monitoring](open-banking-apis/performance-monitoring.md)
-* [Hashmaps and Lookups](open-banking-apis/hashmaps-and-lookups.md)
+* [Open Banking API](https://apis.openbanking.ng)
+* [API Architecture](developer-center/api-architecture.md)
+* [Messaging Standard](developer-center/messaging-standard.md)
+* [Performance Monitoring](developer-center/performance-monitoring.md)
+* [Hashmaps and Lookups](developer-center/hashmaps-and-lookups.md)
 
 ## Open Banking Standard
 
